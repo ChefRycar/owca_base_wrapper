@@ -1,0 +1,10 @@
+name 'owca_base_wrapper'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures owca_base_wrapper'
+long_description 'Installs/Configures owca_base_wrapper'
+version '0.1.1'
+
+depends 'git'
+depends 'audit'
